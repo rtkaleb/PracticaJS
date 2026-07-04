@@ -1,4 +1,4 @@
-# Repopo
+# Repositorio de Práctica para JS
 
 Colección de ejercicios de práctica en JavaScript, organizados por diapositiva/clase, enfocados en manipulación de arreglos, objetos y strings.
 
